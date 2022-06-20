@@ -37,3 +37,4 @@ https://raw.githubusercontent.com/changwook987/acmicpc-tiers/main/<tier>.png
 29. `Ruby 2`
 30. `Ruby 1`
 31. `Master`
+100. `sprout`
